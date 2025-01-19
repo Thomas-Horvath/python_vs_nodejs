@@ -1,0 +1,6 @@
+node_modules
+notes.md
+.vscode/
+venv/
+__pycache__/
+*.pyc
