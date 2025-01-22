@@ -1,6 +1,7 @@
 node_modules
 notes.md
 .vscode/
-venv/
+.venv/
 __pycache__/
 *.pyc
+test.py
